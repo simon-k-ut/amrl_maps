@@ -19,5 +19,6 @@
     "GHC5",
     "GHC6",
     "Airsim-Neighborhood",
-    "GDCTRACK"
+    "GDCTRACK_NAUTILUS",
+    "GDCTRACK_CARTOGRAPHER"
 ]
